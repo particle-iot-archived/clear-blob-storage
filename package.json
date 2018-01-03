@@ -4,7 +4,7 @@
   "version": "0.1.3",
   "description": "Package that clears the blob storage after update",
   "keywords": [],
-  "repository": "https://github.com/spark/clear-blob-storage",
+  "repository": "https://github.com/particle-iot/clear-blob-storage",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
